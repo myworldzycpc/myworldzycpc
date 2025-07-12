@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mailto:myworldzhangyichen@163.com
-- ⚡ Fun fact: My friend's Minecraft server was hacked :( 
+- ⚡ Fun fact: My [friend](https://github.com/TTHILLTT)'s Minecraft server was hacked :( 
 
 <!---
 myworldzycpc/myworldzycpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
