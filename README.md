@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mailto:myworldzhangyichen@163.com
-- ⚡ Fun fact: My [friend](https://github.com/TTHILLTT)'s Minecraft server was hacked :( 
+- ⚡ Fun fact:
+  - Fact 1: [TTHILLTT](https://github.com/TTHILLTT)'s Minecraft server was hacked :(
+  - Fact 2: ~~There is an **Arcane Code Logic Community** behind [baileovo](#)<sup>[链接请求]</sup>~~
 
 <!---
 myworldzycpc/myworldzycpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
