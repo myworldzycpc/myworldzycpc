@@ -5,7 +5,7 @@
 - 📫 How to reach me mailto:myworldzhangyichen@163.com
 - ⚡ Fun fact:
   - Fact 1: [TTHILLTT](https://github.com/TTHILLTT)'s Minecraft server was hacked :(
-  - Fact 2: ~~There is an **Arcane Code Logic Community** behind [baileovo](#)<sup>[Link Needed]</sup>~~
+  - Fact 2: ~~There is an **Arcane Code Logic Community** behind [baileovo](https://github.com/1638230566)~~
 
 <!---
 myworldzycpc/myworldzycpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
